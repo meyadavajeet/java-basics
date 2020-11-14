@@ -1,4 +1,4 @@
-package com.technicalajeet.learnerlession;
+package com.technicalajeet;
 
 public class Main {
 

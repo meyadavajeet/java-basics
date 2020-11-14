@@ -1,4 +1,4 @@
-package com.technicalajeet.learnerlession;
+package com.technicalajeet.learnerlesson;
 
 public class TA1_variable {
     public static void main(String[] args) {

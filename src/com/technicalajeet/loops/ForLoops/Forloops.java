@@ -1,4 +1,4 @@
-package com.technicalajeet.loops;
+package com.technicalajeet.loops.ForLoops;
 
 public class Forloops {
     public static void main(String[] args) {
