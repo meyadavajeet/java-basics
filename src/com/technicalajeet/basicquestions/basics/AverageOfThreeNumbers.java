@@ -12,7 +12,13 @@ public class AverageOfThreeNumbers {
         int n2 = scanner.nextInt();
         System.out.println("Enter Third number");
         int n3 = scanner.nextInt();
-        double average = ((n1 + n2 + n3) / 3F);
-        System.out.println("Average of n1,n2 and n3 = " + average);
+//        double average = ((n1 + n2 + n3) / 3F);
+//        System.out.println("Average of n1,n2 and n3 = " + average);
+        findAvg(n1,n2,n3);
+    }
+    public static void findAvg(int a, int b,int c){
+        int sum = a + b + c;
+        float avg =  sum/3F;
+        System.out.println("Average of n1,n2 and n3 = " + avg);
     }
 }
