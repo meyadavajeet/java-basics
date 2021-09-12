@@ -1,4 +1,4 @@
-package com.technicalajeet.BasicQuestions.Basics;
+package com.technicalajeet.basicquestions.basics;
 
 import java.util.Scanner;
 // 2) Write a Program to Print Integer Number Entered by User

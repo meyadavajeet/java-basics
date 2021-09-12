@@ -1,4 +1,4 @@
-package com.technicalajeet.BasicQuestions.Basics;
+package com.technicalajeet.basicquestions.basics;
 
 import java.util.Scanner;
 

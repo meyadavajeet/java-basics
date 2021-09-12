@@ -1,4 +1,4 @@
-package com.technicalajeet.BasicQuestions.Basics;
+package com.technicalajeet.basicquestions.basics;
 
 // 1) Write a Program to print "Hello, World!"
 
