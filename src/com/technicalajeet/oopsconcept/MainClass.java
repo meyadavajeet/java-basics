@@ -35,5 +35,11 @@ public class MainClass {
         //calling multi-parameterized constructor
         Student student3 = new Student(1,"A.R Rahman","Ranchi");
 
+        // creating object of dog class
+        Dog dog = new Dog();
+        dog.sleep();
+        dog.eat(); //this method comes from the inherited Animal Parent class
+        System.out.println(dog.color);
+
     }
 }
